@@ -10,5 +10,5 @@ public class Main {
 
         System.out.println(" Книга 1: " + book1.getTitleBook() + " , автор: " + book1.getAuthor().getFirstName() + book1.getAuthor().getLastName() + " , год публикации: " + book1.getPublicationYear());
         System.out.println(" Книга 2: " + book2.getTitleBook() + " , автор: " + book2.getAuthor().getFirstName() + book2.getAuthor().getLastName() + " , год публикации: " + book2.getPublicationYear());
-        }
     }
+}
